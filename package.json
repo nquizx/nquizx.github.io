@@ -1,0 +1,26 @@
+{
+  "name": "nquizx.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nquizx/nquizx.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nquizx/nquizx.github.io/issues"
+  },
+  "homepage": "https://github.com/nquizx/nquizx.github.io#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.29",
+    "vue": "^3.2.45"
+  }
+}
